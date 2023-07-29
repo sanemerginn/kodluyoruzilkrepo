@@ -9,7 +9,8 @@
 - **"Add a README file"** seçeneğini seçin.
 - "Choose a license" seçeneğini seçip **"MIT License"** seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için [Choose a License](https://choosealicense.com/) sitesini ziyaret edebilirsiniz.
 
-![github](kodluyoruzilkrepo.png)
+![GitHub](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
 Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bilgisayarımıza klonlamak olacak.
 
 - Repoyu açıp Code yazan yeşil butona tıklayın ve oradaki bağlantı ile bilgisayarınıza klonlayın. GIT komutları için [GitHub GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)'i kullanabilirsiniz.
