@@ -2,6 +2,6 @@
 
 ## deneme
 
-### lorem3
+### lorem2
 
 [lorem ipsum](http://google.com)
